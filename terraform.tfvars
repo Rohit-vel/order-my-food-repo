@@ -1,4 +1,6 @@
 region                = "ap-south-1"
+access_key            = "AKIASA3APD2MX7NIYN**"
+secrete_key           = "HxRmzDtPRfcyDaxLq5IOTdeYsqv2OGLlVoiPYv**"
 environment           = "Development"
 vpc_cidr              = "10.0.0.0/16"
 public_subnet_1_cidr  = "10.0.1.0/24"
