@@ -1,6 +1,12 @@
 variable "region" {
   default = "ap-south-1"
 }
+variable "access_key" {
+  default = "AKIASA3APD2MX7NIYN**"
+}
+variable "secrete_key" {
+  default = "HxRmzDtPRfcyDaxLq5IOTdeYsqv2OGLlVoiPYv**"
+}
 variable "environment" {
   default = "Development"
 }
